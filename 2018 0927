@@ -29,3 +29,10 @@ stdlib有何用途?
 std英文全名為何?
 lib是何意義??
 https://zh.wikipedia.org/wiki/Stdlib.h
+   
+   
+   使用Linux 平台C程式開發:
+
+1.編輯程式: gedit  myc_1_1.c
+2.編譯: gcc myc_1_1.c -o myc_1_1
+3.執行:./myc_1_1
