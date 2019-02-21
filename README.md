@@ -32,3 +32,4 @@ Components, such as libraries, frameworks, and other software modules, run with 
 Insufficient logging and monitoring, coupled with missing or ineffective integration with incident response, allows attackers to further attack systems, maintain persistence, pivot to more systems, and tamper, extract, or destroy data. Most breach studies show time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring.
 
 # https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+# https://www.owasp.org/images/5/58/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.2.pdf
